@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-goyal-0811&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-goyal-0811" /> </p>
 
-<p align="left"> <a href="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media" target="blank">
+<p align="left"> <img src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media" /></p>
 <p align="left"> <a href="https://twitter.com/shubham13322241" target="blank"><img src="https://img.shields.io/twitter/follow/shubham13322241?logo=twitter&style=for-the-badge" alt="shubham13322241" /></a> </p>
 
 - 🔭 I’m currently working on [Philantro Hub](https://github.com/shubham-goyal-0811/PhilantroHub)
